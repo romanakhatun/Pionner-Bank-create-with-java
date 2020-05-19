@@ -1,4 +1,10 @@
 # PIONEER BANK
-#### Pioneer Bank create with HTML, CSS and Javascript
+#### Pioneer Bank create with HTML5, CSS3 and Javascript
 
-### [Preview project](https://romanakhatun.github.io/pionner-bank/)
+### Main Featured:
+    Login
+    Deposit add
+    Withdraw add
+    Total Balence
+
+### [Preview](https://romanakhatun.github.io/pionner-bank/)
